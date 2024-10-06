@@ -1,0 +1,6 @@
+Alfabeto Definido: [ , 1, a, 2, b, 3, c]
+Cadenas Registradas:
+123: Aceptada
+abc: Aceptada
+04: No aceptada
+123abc: Aceptada
